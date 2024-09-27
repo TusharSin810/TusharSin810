@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="full">
 # Hi, I'm Tushar 👋
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="full">
 👩🏻‍🎓 I'm an undergraduate student from India 🇮🇳, passionate about technology and always eager to learn and contribute.<br><br>🌟 What I’m Currently Learning<br>- Machine Learning<br>- Web3 technologies<br>- Next.js<br><br><br>👨‍💻 What I’m Working On<br>- Building my **portfolio website** to showcase my work and projects.<br>- Developing **vAidya**, a Medical AI to assist in healthcare decision-making.<br>- Exploring new technologies and contributing to **open-source** projects.<br><br><br>💬 Feel free to ask me about:<br>- Web Development  <br>- Machine Learning & Web3  <br>- Music 🎶 and the Universe 🌌<br><br>
 
 ## 🌐 Socials
